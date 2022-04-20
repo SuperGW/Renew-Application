@@ -1,2 +1,8 @@
-# IDM_苏联版
+# Renew Application
 Internet Download Manager
+
+Bandzip
+
+DISM++
+
+Microsoft Activation Scripts
